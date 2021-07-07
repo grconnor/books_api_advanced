@@ -13,7 +13,7 @@
     "express": "~4.13.1",
     "pg": "^8.4.2",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.6.5"
   },
   "devDependencies": {
     "chai": "^4.2.0",
